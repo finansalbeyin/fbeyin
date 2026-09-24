@@ -17,3 +17,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 12. [Dividend gəlirliliyi](qeydler/12-dividend-gelirliliyi.md)
 13. [İndeks fondları və ETF](qeydler/13-indeks-fondu-etf.md)
 14. [Xərc əmsalı (expense ratio)](qeydler/14-xerc-emsali.md)
+15. [APR və APY fərqi](qeydler/15-apr-vs-apy.md)
