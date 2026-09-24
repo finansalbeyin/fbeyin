@@ -27,3 +27,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 22. [Portfel rebalansı](qeydler/22-portfel-rebalansi.md)
 23. [Fürsət dəyəri](qeydler/23-fursat-deyeri.md)
 24. [Emosional qərarlar: FOMO və panik satış](qeydler/24-fomo-ve-panik.md)
+25. [Maliyyə fırıldağının əlamətləri](qeydler/25-firildaq-elametleri.md)
