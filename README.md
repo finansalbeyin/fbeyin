@@ -20,3 +20,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 15. [APR və APY fərqi](qeydler/15-apr-vs-apy.md)
 16. [Kredit kartı və minimum ödəniş tələsi](qeydler/16-kredit-karti-minimum-odenis.md)
 17. [Borc ödəmə: qartopu və uçqun üsulları](qeydler/17-borc-qartopu-uchqun.md)
+18. [Market kapitalizasiyası](qeydler/18-market-kapitalizasiyasi.md)
