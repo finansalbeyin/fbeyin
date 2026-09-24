@@ -19,3 +19,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 14. [Xərc əmsalı (expense ratio)](qeydler/14-xerc-emsali.md)
 15. [APR və APY fərqi](qeydler/15-apr-vs-apy.md)
 16. [Kredit kartı və minimum ödəniş tələsi](qeydler/16-kredit-karti-minimum-odenis.md)
+17. [Borc ödəmə: qartopu və uçqun üsulları](qeydler/17-borc-qartopu-uchqun.md)
