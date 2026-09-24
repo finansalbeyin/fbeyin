@@ -24,3 +24,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 19. [Volatillik](qeydler/19-volatillik.md)
 20. [Maksimum düşüş (max drawdown)](qeydler/20-maksimum-drawdown.md)
 21. [Mövqe ölçüsü və 1–2% qaydası](qeydler/21-movqe-olcusu.md)
+22. [Portfel rebalansı](qeydler/22-portfel-rebalansi.md)
