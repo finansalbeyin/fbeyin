@@ -26,3 +26,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 21. [Mövqe ölçüsü və 1–2% qaydası](qeydler/21-movqe-olcusu.md)
 22. [Portfel rebalansı](qeydler/22-portfel-rebalansi.md)
 23. [Fürsət dəyəri](qeydler/23-fursat-deyeri.md)
+24. [Emosional qərarlar: FOMO və panik satış](qeydler/24-fomo-ve-panik.md)
