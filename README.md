@@ -13,3 +13,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 8. [Likvidlik](qeydler/08-likvidlik.md)
 9. [Dövri investisiya (DCA)](qeydler/09-dovri-investisiya-dca.md)
 10. [Faiz dərəcəsi və istiqraz qiyməti](qeydler/10-faiz-ve-istiqraz.md)
+11. [P/E əmsalı](qeydler/11-pe-emsali.md)
