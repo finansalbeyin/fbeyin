@@ -14,3 +14,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 9. [Dövri investisiya (DCA)](qeydler/09-dovri-investisiya-dca.md)
 10. [Faiz dərəcəsi və istiqraz qiyməti](qeydler/10-faiz-ve-istiqraz.md)
 11. [P/E əmsalı](qeydler/11-pe-emsali.md)
+12. [Dividend gəlirliliyi](qeydler/12-dividend-gelirliliyi.md)
