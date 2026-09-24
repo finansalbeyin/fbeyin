@@ -22,3 +22,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 17. [Borc ödəmə: qartopu və uçqun üsulları](qeydler/17-borc-qartopu-uchqun.md)
 18. [Market kapitalizasiyası](qeydler/18-market-kapitalizasiyasi.md)
 19. [Volatillik](qeydler/19-volatillik.md)
+20. [Maksimum düşüş (max drawdown)](qeydler/20-maksimum-drawdown.md)
