@@ -16,3 +16,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 11. [P/E əmsalı](qeydler/11-pe-emsali.md)
 12. [Dividend gəlirliliyi](qeydler/12-dividend-gelirliliyi.md)
 13. [İndeks fondları və ETF](qeydler/13-indeks-fondu-etf.md)
+14. [Xərc əmsalı (expense ratio)](qeydler/14-xerc-emsali.md)
