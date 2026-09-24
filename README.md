@@ -7,3 +7,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 2. [72 qaydası](qeydler/02-72-qaydasi.md)
 3. [İnflyasiya və real gəlir](qeydler/03-inflyasiya-real-gelir.md)
 4. [Təcili yardım fondu](qeydler/04-tecili-yardim-fondu.md)
+5. [50/30/20 büdcə qaydası](qeydler/05-50-30-20-budce.md)
