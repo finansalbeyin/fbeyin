@@ -9,3 +9,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 4. [Təcili yardım fondu](qeydler/04-tecili-yardim-fondu.md)
 5. [50/30/20 büdcə qaydası](qeydler/05-50-30-20-budce.md)
 6. [Diversifikasiya](qeydler/06-diversifikasiya.md)
+7. [Risk və gəlir əlaqəsi](qeydler/07-risk-ve-gelir.md)
