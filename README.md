@@ -25,3 +25,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 20. [Maksimum düşüş (max drawdown)](qeydler/20-maksimum-drawdown.md)
 21. [Mövqe ölçüsü və 1–2% qaydası](qeydler/21-movqe-olcusu.md)
 22. [Portfel rebalansı](qeydler/22-portfel-rebalansi.md)
+23. [Fürsət dəyəri](qeydler/23-fursat-deyeri.md)
