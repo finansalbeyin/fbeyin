@@ -11,3 +11,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 6. [Diversifikasiya](qeydler/06-diversifikasiya.md)
 7. [Risk və gəlir əlaqəsi](qeydler/07-risk-ve-gelir.md)
 8. [Likvidlik](qeydler/08-likvidlik.md)
+9. [Dövri investisiya (DCA)](qeydler/09-dovri-investisiya-dca.md)
