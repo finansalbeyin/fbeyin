@@ -10,3 +10,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 5. [50/30/20 büdcə qaydası](qeydler/05-50-30-20-budce.md)
 6. [Diversifikasiya](qeydler/06-diversifikasiya.md)
 7. [Risk və gəlir əlaqəsi](qeydler/07-risk-ve-gelir.md)
+8. [Likvidlik](qeydler/08-likvidlik.md)
