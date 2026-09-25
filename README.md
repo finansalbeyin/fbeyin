@@ -38,3 +38,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 33. [Gas haqqı](qeydler/33-gas.md)
 34. [Slippage (sürüşmə)](qeydler/34-slippage.md)
 35. [MEV və sandwich hücumu](qeydler/35-mev-sandwich.md)
+36. [Stablecoin növləri](qeydler/36-stablecoin-novleri.md)
