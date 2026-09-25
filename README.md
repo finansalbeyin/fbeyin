@@ -49,3 +49,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 44. [Körpü (bridge) riskləri](qeydler/44-korpu-riskleri.md)
 45. [Smart kontrakt riski və audit](qeydler/45-smart-kontrakt-audit.md)
 46. [Rug pull və honeypot tokenlər](qeydler/46-rug-pull-honeypot.md)
+47. [Impermanent loss](qeydler/47-impermanent-loss.md)
