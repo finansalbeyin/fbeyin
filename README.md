@@ -47,3 +47,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 42. [Kiçik test tranzaksiyası](qeydler/42-test-tranzaksiya.md)
 43. [2FA və SIM swap](qeydler/43-2fa-sim-swap.md)
 44. [Körpü (bridge) riskləri](qeydler/44-korpu-riskleri.md)
+45. [Smart kontrakt riski və audit](qeydler/45-smart-kontrakt-audit.md)
