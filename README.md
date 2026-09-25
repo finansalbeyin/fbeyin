@@ -67,3 +67,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 62. [EV/EBITDA və P/B əmsalları](qeydler/62-evebitda-pb.md)
 63. [Səhm split-i](qeydler/63-sehm-split.md)
 64. [IPO nədir](qeydler/64-ipo.md)
+65. [Qızıl və "safe haven" aktivlər](qeydler/65-qizil-safe-haven.md)
