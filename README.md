@@ -72,3 +72,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 67. [Kredit reytinq agentlikləri](qeydler/67-kredit-reyting-agentlikleri.md)
 68. [Suveren borc böhranı](qeydler/68-suveren-borc-bohrani.md)
 69. [Ticarət müharibələri və tariflər](qeydler/69-tarif-ticaret-muharibesi.md)
+70. [Yüksələn (emerging market) bazarlar riski](qeydler/70-inkishaf-etmekde-olan-bazarlar.md)
