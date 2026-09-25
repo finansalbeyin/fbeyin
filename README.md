@@ -33,3 +33,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 28. [Hot və cold wallet](qeydler/28-hot-cold-wallet.md)
 29. [Custodial və non-custodial](qeydler/29-custodial-non-custodial.md)
 30. [CEX və DEX](qeydler/30-cex-vs-dex.md)
+31. [Token approve və limitsiz icazə](qeydler/31-token-approve.md)
