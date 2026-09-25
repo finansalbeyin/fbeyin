@@ -36,3 +36,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 31. [Token approve və limitsiz icazə](qeydler/31-token-approve.md)
 32. [İcazələri ləğv etmək (revoke)](qeydler/32-approve-revoke.md)
 33. [Gas haqqı](qeydler/33-gas.md)
+34. [Slippage (sürüşmə)](qeydler/34-slippage.md)
