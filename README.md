@@ -45,3 +45,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 40. [İmza phishing-i (blind signing)](qeydler/40-imza-phishing.md)
 41. [Multisig cüzdan](qeydler/41-multisig.md)
 42. [Kiçik test tranzaksiyası](qeydler/42-test-tranzaksiya.md)
+43. [2FA və SIM swap](qeydler/43-2fa-sim-swap.md)
