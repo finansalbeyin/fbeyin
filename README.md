@@ -42,3 +42,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 37. [Depeg riski](qeydler/37-depeg-riski.md)
 38. [Phishing hücumları](qeydler/38-phishing.md)
 39. [Address poisoning](qeydler/39-address-poisoning.md)
+40. [İmza phishing-i (blind signing)](qeydler/40-imza-phishing.md)
