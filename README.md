@@ -70,3 +70,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 65. [Qızıl və "safe haven" aktivlər](qeydler/65-qizil-safe-haven.md)
 66. [Neft qiymətləri və qlobal iqtisadiyyat](qeydler/66-neft-qiymetleri.md)
 67. [Kredit reytinq agentlikləri](qeydler/67-kredit-reyting-agentlikleri.md)
+68. [Suveren borc böhranı](qeydler/68-suveren-borc-bohrani.md)
