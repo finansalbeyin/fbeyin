@@ -43,3 +43,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 38. [Phishing hücumları](qeydler/38-phishing.md)
 39. [Address poisoning](qeydler/39-address-poisoning.md)
 40. [İmza phishing-i (blind signing)](qeydler/40-imza-phishing.md)
+41. [Multisig cüzdan](qeydler/41-multisig.md)
