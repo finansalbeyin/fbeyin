@@ -65,3 +65,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 60. [Bull və bear market](qeydler/60-bull-bear-market.md)
 61. [Səhm bazarı indeksləri](qeydler/61-boyuk-indeksler.md)
 62. [EV/EBITDA və P/B əmsalları](qeydler/62-evebitda-pb.md)
+63. [Səhm split-i](qeydler/63-sehm-split.md)
