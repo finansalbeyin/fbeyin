@@ -57,3 +57,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 52. [İnflyasiya növləri](qeydler/52-inflyasiya-novleri.md)
 53. [ÜDM (GDP) nədir](qeydler/53-udm-gdp.md)
 54. [İşsizlik dərəcəsi](qeydler/54-issizlik-derecesi.md)
+55. [Gəlirlilik əyrisi (yield curve)](qeydler/55-gelirlilik-eyrisi.md)
