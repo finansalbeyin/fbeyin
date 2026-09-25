@@ -34,3 +34,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 29. [Custodial və non-custodial](qeydler/29-custodial-non-custodial.md)
 30. [CEX və DEX](qeydler/30-cex-vs-dex.md)
 31. [Token approve və limitsiz icazə](qeydler/31-token-approve.md)
+32. [İcazələri ləğv etmək (revoke)](qeydler/32-approve-revoke.md)
