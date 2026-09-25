@@ -75,3 +75,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 70. [Yüksələn (emerging market) bazarlar riski](qeydler/70-inkishaf-etmekde-olan-bazarlar.md)
 71. [Dollar indeksi (DXY)](qeydler/71-dollar-indeksi-dxy.md)
 72. [SWIFT sistemi](qeydler/72-swift-sistemi.md)
+73. [Sanksiyalar və maliyyə bazarlarına təsiri](qeydler/73-sanksiyalar-bazar-tesiri.md)
