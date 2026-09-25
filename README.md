@@ -60,3 +60,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 55. [Gəlirlilik əyrisi (yield curve)](qeydler/55-gelirlilik-eyrisi.md)
 56. [Valyuta məzənnəsi və devalvasiya](qeydler/56-valyuta-mezennesi.md)
 57. [Ticarət balansı](qeydler/57-ticaret-balansi.md)
+58. [Fiskal siyasət vs monetar siyasət](qeydler/58-fiskal-monetar-siyaset.md)
