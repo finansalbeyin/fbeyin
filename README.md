@@ -78,3 +78,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 73. [Sanksiyalar və maliyyə bazarlarına təsiri](qeydler/73-sanksiyalar-bazar-tesiri.md)
 74. [Kriptonun ənənəvi bazarlarla korrelyasiyası](qeydler/74-kripto-envenenel-bazar-korrelyasiyasi.md)
 75. [Xəbər və hadisə riski](qeydler/75-xeber-hadise-riski.md)
+76. [Şəxsi vergi planlaması əsasları](qeydler/76-vergi-planlamasi-esaslari.md)
