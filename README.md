@@ -40,3 +40,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 35. [MEV və sandwich hücumu](qeydler/35-mev-sandwich.md)
 36. [Stablecoin növləri](qeydler/36-stablecoin-novleri.md)
 37. [Depeg riski](qeydler/37-depeg-riski.md)
+38. [Phishing hücumları](qeydler/38-phishing.md)
