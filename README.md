@@ -76,3 +76,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 71. [Dollar indeksi (DXY)](qeydler/71-dollar-indeksi-dxy.md)
 72. [SWIFT sistemi](qeydler/72-swift-sistemi.md)
 73. [Sanksiyalar və maliyyə bazarlarına təsiri](qeydler/73-sanksiyalar-bazar-tesiri.md)
+74. [Kriptonun ənənəvi bazarlarla korrelyasiyası](qeydler/74-kripto-envenenel-bazar-korrelyasiyasi.md)
