@@ -35,3 +35,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 30. [CEX və DEX](qeydler/30-cex-vs-dex.md)
 31. [Token approve və limitsiz icazə](qeydler/31-token-approve.md)
 32. [İcazələri ləğv etmək (revoke)](qeydler/32-approve-revoke.md)
+33. [Gas haqqı](qeydler/33-gas.md)
