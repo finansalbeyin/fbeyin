@@ -41,3 +41,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 36. [Stablecoin növləri](qeydler/36-stablecoin-novleri.md)
 37. [Depeg riski](qeydler/37-depeg-riski.md)
 38. [Phishing hücumları](qeydler/38-phishing.md)
+39. [Address poisoning](qeydler/39-address-poisoning.md)
