@@ -61,3 +61,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 56. [Valyuta məzənnəsi və devalvasiya](qeydler/56-valyuta-mezennesi.md)
 57. [Ticarət balansı](qeydler/57-ticaret-balansi.md)
 58. [Fiskal siyasət vs monetar siyasət](qeydler/58-fiskal-monetar-siyaset.md)
+59. [Resessiya nədir](qeydler/59-resessiya.md)
