@@ -63,3 +63,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 58. [Fiskal siyasət vs monetar siyasət](qeydler/58-fiskal-monetar-siyaset.md)
 59. [Resessiya nədir](qeydler/59-resessiya.md)
 60. [Bull və bear market](qeydler/60-bull-bear-market.md)
+61. [Səhm bazarı indeksləri](qeydler/61-boyuk-indeksler.md)
