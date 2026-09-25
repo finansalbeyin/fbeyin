@@ -73,3 +73,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 68. [Suveren borc böhranı](qeydler/68-suveren-borc-bohrani.md)
 69. [Ticarət müharibələri və tariflər](qeydler/69-tarif-ticaret-muharibesi.md)
 70. [Yüksələn (emerging market) bazarlar riski](qeydler/70-inkishaf-etmekde-olan-bazarlar.md)
+71. [Dollar indeksi (DXY)](qeydler/71-dollar-indeksi-dxy.md)
