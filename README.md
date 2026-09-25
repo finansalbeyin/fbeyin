@@ -53,3 +53,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 48. [Staking riskləri](qeydler/48-staking-riskleri.md)
 49. [Blok explorer-dən istifadə](qeydler/49-block-explorer.md)
 50. [Airdrop fəaliyyətində təhlükəsizlik](qeydler/50-airdrop-tehlukesizliyi.md)
+51. [Mərkəzi bank və faiz siyasəti](qeydler/51-merkezi-bank-faiz-siyaseti.md)
