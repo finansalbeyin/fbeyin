@@ -37,3 +37,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 32. [İcazələri ləğv etmək (revoke)](qeydler/32-approve-revoke.md)
 33. [Gas haqqı](qeydler/33-gas.md)
 34. [Slippage (sürüşmə)](qeydler/34-slippage.md)
+35. [MEV və sandwich hücumu](qeydler/35-mev-sandwich.md)
