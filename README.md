@@ -29,3 +29,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 24. [Emosional qərarlar: FOMO və panik satış](qeydler/24-fomo-ve-panik.md)
 25. [Maliyyə fırıldağının əlamətləri](qeydler/25-firildaq-elametleri.md)
 26. [Seed phrase (bərpa ifadəsi)](qeydler/26-seed-phrase.md)
+27. [Hardware wallet](qeydler/27-hardware-wallet.md)
