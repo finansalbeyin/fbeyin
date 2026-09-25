@@ -59,3 +59,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 54. [İşsizlik dərəcəsi](qeydler/54-issizlik-derecesi.md)
 55. [Gəlirlilik əyrisi (yield curve)](qeydler/55-gelirlilik-eyrisi.md)
 56. [Valyuta məzənnəsi və devalvasiya](qeydler/56-valyuta-mezennesi.md)
+57. [Ticarət balansı](qeydler/57-ticaret-balansi.md)
