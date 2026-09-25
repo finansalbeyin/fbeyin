@@ -30,3 +30,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 25. [Maliyyə fırıldağının əlamətləri](qeydler/25-firildaq-elametleri.md)
 26. [Seed phrase (bərpa ifadəsi)](qeydler/26-seed-phrase.md)
 27. [Hardware wallet](qeydler/27-hardware-wallet.md)
+28. [Hot və cold wallet](qeydler/28-hot-cold-wallet.md)
