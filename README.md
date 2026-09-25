@@ -39,3 +39,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 34. [Slippage (sürüşmə)](qeydler/34-slippage.md)
 35. [MEV və sandwich hücumu](qeydler/35-mev-sandwich.md)
 36. [Stablecoin növləri](qeydler/36-stablecoin-novleri.md)
+37. [Depeg riski](qeydler/37-depeg-riski.md)
