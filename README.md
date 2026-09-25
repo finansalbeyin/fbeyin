@@ -55,3 +55,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 50. [Airdrop fəaliyyətində təhlükəsizlik](qeydler/50-airdrop-tehlukesizliyi.md)
 51. [Mərkəzi bank və faiz siyasəti](qeydler/51-merkezi-bank-faiz-siyaseti.md)
 52. [İnflyasiya növləri](qeydler/52-inflyasiya-novleri.md)
+53. [ÜDM (GDP) nədir](qeydler/53-udm-gdp.md)
