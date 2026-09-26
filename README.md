@@ -98,3 +98,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 93. [Backtesting](qeydler/93-backtesting.md)
 94. [Overtrading riski](qeydler/94-overtrading.md)
 95. [Trading jurnalı saxlamaq](qeydler/95-trading-jurnali.md)
+96. [Kelly kriteriyası](qeydler/96-kelly-kriteriyasi.md)
