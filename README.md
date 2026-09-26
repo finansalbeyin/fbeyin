@@ -83,3 +83,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 78. [Dəstək və müqavimət səviyyələri](qeydler/78-destek-muqavimet.md)
 79. [Trend xətti](qeydler/79-trend-xetti.md)
 80. [Hərəkətli orta (moving average)](qeydler/80-herekatli-orta.md)
+81. [RSI göstəricisi](qeydler/81-rsi-gostericisi.md)
