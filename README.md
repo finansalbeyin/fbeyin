@@ -100,3 +100,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 95. [Trading jurnalı saxlamaq](qeydler/95-trading-jurnali.md)
 96. [Kelly kriteriyası](qeydler/96-kelly-kriteriyasi.md)
 97. [Korrelyasiya riski portfeldə](qeydler/97-portfel-korrelyasiya-riski.md)
+98. [Qrafik naxışlarına (pattern) həddindən artıq etibar riski](qeydler/98-pattern-xurafat-riski.md)
