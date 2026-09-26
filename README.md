@@ -103,3 +103,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 98. [Qrafik naxışlarına (pattern) həddindən artıq etibar riski](qeydler/98-pattern-xurafat-riski.md)
 99. [Alqoritmik trading əsasları](qeydler/99-algoritmik-trading-esaslari.md)
 100. [Trading psixologiyası: itki qorxusu (loss aversion)](qeydler/100-itki-qorxusu-loss-aversion.md)
+101. [İndikatorlara həddindən artıq etibar riski](qeydler/101-indikator-asililiq-riski.md)
