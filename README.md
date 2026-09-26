@@ -79,3 +79,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 74. [Kriptonun ənənəvi bazarlarla korrelyasiyası](qeydler/74-kripto-envenenel-bazar-korrelyasiyasi.md)
 75. [Xəbər və hadisə riski](qeydler/75-xeber-hadise-riski.md)
 76. [Şəxsi vergi planlaması əsasları](qeydler/76-vergi-planlamasi-esaslari.md)
+77. [Texniki analiz nədir](qeydler/77-texniki-analiz-nedir.md)
