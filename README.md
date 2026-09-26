@@ -91,3 +91,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 86. [Risk/mükafat nisbəti](qeydler/86-risk-mukafat-nisbeti.md)
 87. [Leverage (margin) ticarəti riski](qeydler/87-leverage-margin.md)
 88. [Likvidasiya (liquidation) nədir](qeydler/88-likvidasiya.md)
+89. [Funding rate (perpetual futures)](qeydler/89-funding-rate.md)
