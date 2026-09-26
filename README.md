@@ -104,3 +104,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 99. [Alqoritmik trading əsasları](qeydler/99-algoritmik-trading-esaslari.md)
 100. [Trading psixologiyası: itki qorxusu (loss aversion)](qeydler/100-itki-qorxusu-loss-aversion.md)
 101. [İndikatorlara həddindən artıq etibar riski](qeydler/101-indikator-asililiq-riski.md)
+102. [Exit strategiyası planlaşdırma](qeydler/102-exit-strategiyasi.md)
