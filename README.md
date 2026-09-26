@@ -93,3 +93,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 88. [Likvidasiya (liquidation) nədir](qeydler/88-likvidasiya.md)
 89. [Funding rate (perpetual futures)](qeydler/89-funding-rate.md)
 90. [Short satış (short selling)](qeydler/90-short-satish.md)
+91. [Order növləri](qeydler/91-order-novleri.md)
