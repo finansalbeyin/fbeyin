@@ -81,3 +81,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 76. [Şəxsi vergi planlaması əsasları](qeydler/76-vergi-planlamasi-esaslari.md)
 77. [Texniki analiz nədir](qeydler/77-texniki-analiz-nedir.md)
 78. [Dəstək və müqavimət səviyyələri](qeydler/78-destek-muqavimet.md)
+79. [Trend xətti](qeydler/79-trend-xetti.md)
