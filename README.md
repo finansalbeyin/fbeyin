@@ -84,3 +84,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 79. [Trend xətti](qeydler/79-trend-xetti.md)
 80. [Hərəkətli orta (moving average)](qeydler/80-herekatli-orta.md)
 81. [RSI göstəricisi](qeydler/81-rsi-gostericisi.md)
+82. [MACD göstəricisi](qeydler/82-macd-gostericisi.md)
