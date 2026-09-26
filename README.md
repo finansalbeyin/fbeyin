@@ -95,3 +95,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 90. [Short satış (short selling)](qeydler/90-short-satish.md)
 91. [Order növləri](qeydler/91-order-novleri.md)
 92. [Order book və bid-ask spread](qeydler/92-order-book-spread.md)
+93. [Backtesting](qeydler/93-backtesting.md)
