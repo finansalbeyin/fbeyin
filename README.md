@@ -97,3 +97,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 92. [Order book və bid-ask spread](qeydler/92-order-book-spread.md)
 93. [Backtesting](qeydler/93-backtesting.md)
 94. [Overtrading riski](qeydler/94-overtrading.md)
+95. [Trading jurnalı saxlamaq](qeydler/95-trading-jurnali.md)
