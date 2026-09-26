@@ -86,3 +86,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 81. [RSI göstəricisi](qeydler/81-rsi-gostericisi.md)
 82. [MACD göstəricisi](qeydler/82-macd-gostericisi.md)
 83. [Şam qrafikləri (candlestick) əsasları](qeydler/83-sham-qrafikleri.md)
+84. [Həcm (volume) analizi](qeydler/84-hecm-analizi.md)
