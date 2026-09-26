@@ -88,3 +88,4 @@ Maliyyə və investisiya mövzusunda qısa, praktik qeydlər.
 83. [Şam qrafikləri (candlestick) əsasları](qeydler/83-sham-qrafikleri.md)
 84. [Həcm (volume) analizi](qeydler/84-hecm-analizi.md)
 85. [Stop-loss və take-profit](qeydler/85-stop-loss-take-profit.md)
+86. [Risk/mükafat nisbəti](qeydler/86-risk-mukafat-nisbeti.md)
